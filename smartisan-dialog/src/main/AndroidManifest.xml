@@ -1,6 +1,4 @@
-<manifest package="cc.duduhuo.dialog.smartisan"
-    >
+<manifest>
 
-    <application/>
-
+	<application />
 </manifest>
